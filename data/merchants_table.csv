@@ -1,0 +1,694 @@
+merchant,category,Merchant_Category,merch_lat,merch_long,merch_zipcode
+fraud_Towne LLC,misc_pos,Electronics,40.420453,-78.865012,15909.0
+fraud_Friesen Ltd,health_fitness,Entertainment,42.75886,-123.636337,UNKNOWN
+fraud_Mohr Inc,shopping_pos,Restaurants,40.475159000000005,-78.89819,15961.0
+fraud_Gaylord-Powlowski,home,Restaurants,43.767506,-76.542384,UNKNOWN
+"fraud_Christiansen, Goyette and Schamberger",gas_transport,Clothing,41.040392,-104.092324,82082.0
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,Entertainment,44.272392,-72.743707,5660.0
+fraud_Kuhic Inc,grocery_pos,Electronics,42.170491,-83.291412,48180.0
+"fraud_Douglas, Schneider and Turner",shopping_pos,Restaurants,32.019064,-91.779016,71243.0
+fraud_Hickle Group,shopping_pos,Groceries,32.913817,-99.093146,76491.0
+fraud_Bahringer-Streich,food_dining,Electronics,32.167677000000005,-85.957662,36029.0
+fraud_Pollich LLC,home,Entertainment,39.242303,-77.234023,20871.0
+fraud_Weber and Sons,food_dining,Clothing,36.280406,-89.622451,63851.0
+fraud_Berge LLC,gas_transport,Restaurants,41.194719,-101.076517,69165.0
+fraud_Schmidt and Sons,shopping_net,Electronics,26.115136,-81.756214,34112.0
+fraud_Kozey-Boehm,shopping_net,Groceries,43.878878,-90.871225,54653.0
+fraud_Gibson-Deckow,entertainment,Groceries,39.353332,-74.37355500000001,8401.0
+fraud_Trantow PLC,grocery_net,Clothing,42.137081,-79.226344,14733.0
+fraud_Cole PLC,grocery_pos,Groceries,40.902721,-74.66294,7850.0
+"fraud_Kling, Howe and Schneider",home,Restaurants,42.217851,-75.027751,13782.0
+fraud_Harris Group,food_dining,Entertainment,40.620905,-124.282498,95551.0
+fraud_Pacocha-Weissnat,kids_pets,Restaurants,33.189815,-96.527279,75407.0
+fraud_Schumm PLC,shopping_net,Restaurants,41.55806,-77.227642,16930.0
+"fraud_Schaefer, McGlynn and Bosco",gas_transport,Clothing,38.786836,-79.210021,26866.0
+fraud_Emmerich-Rau,personal_care,Groceries,40.9148,-121.567945,96016.0
+"fraud_Connelly, Reichert and Fritsch",gas_transport,Electronics,38.986965000000005,-86.506261,47451.0
+"fraud_Johnson, Runolfsdottir and Mayer",misc_net,Restaurants,46.494343,-101.26117,58535.0
+fraud_Boyer PLC,shopping_net,Clothing,37.659206,-80.76094,24981.0
+fraud_Tromp Group,travel,Groceries,34.416585,-92.844652,72104.0
+fraud_Ernser-Feest,home,Electronics,42.145565000000005,-75.11380799999999,13856.0
+fraud_Hoppe-Parisian,kids_pets,Restaurants,37.124568,-89.54678299999999,63736.0
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,Clothing,44.557567,-112.086321,UNKNOWN
+"fraud_Hettinger, McCullough and Fay",home,Entertainment,40.570778,-77.357456,17059.0
+fraud_Labadie LLC,personal_care,Electronics,46.75915,-96.26618,56549.0
+fraud_Rippin-VonRueden,health_fitness,Groceries,29.225715,-96.502615,77455.0
+"fraud_Greenholt, Jacobi and Gleason",gas_transport,Electronics,36.766497,-80.147448,24133.0
+fraud_Reilly LLC,home,Clothing,42.568491,-73.13293900000001,1225.0
+"fraud_Kerluke, Considine and Macejkovic",misc_net,Clothing,40.272463,-80.608648,26070.0
+"fraud_Walter, Hettinger and Kessler",personal_care,Electronics,29.834081,-95.645734,77084.0
+fraud_Hammes-Beatty,kids_pets,Restaurants,32.356439,-86.29970300000001,36106.0
+fraud_Abernathy and Sons,food_dining,Groceries,49.214328,-122.00985,UNKNOWN
+"fraud_Lehner, Reichert and Mills",misc_pos,Entertainment,35.187926000000004,-81.89878,29323.0
+fraud_Corwin-Gorczany,misc_net,Entertainment,39.886072,-92.372998,63530.0
+"fraud_Swaniawski, Bahringer and Ledner",grocery_net,Electronics,43.642831,-77.002898,UNKNOWN
+fraud_Marks Inc,gas_transport,Entertainment,36.541091,-88.031979,42076.0
+fraud_Crona and Sons,kids_pets,Restaurants,40.41624,-81.521978,43840.0
+fraud_Rutherford-Mertz,grocery_pos,Groceries,39.620265,-94.722754,64401.0
+fraud_Kuhn LLC,misc_net,Groceries,33.607607,-93.741557,71838.0
+fraud_Deckow-Dare,food_dining,Groceries,44.83847,-89.833475,54448.0
+fraud_Erdman-Ebert,personal_care,Electronics,33.300614,-102.496178,UNKNOWN
+"fraud_Feil, Hilpert and Koss",food_dining,Groceries,42.917190000000005,-97.541612,57067.0
+"fraud_Boehm, Block and Jakubowski",misc_pos,Restaurants,37.206312,-89.615062,63740.0
+fraud_Morissette LLC,entertainment,Electronics,39.0787,-74.659823,8202.0
+"fraud_Goldner, Kovacek and Abbott",grocery_pos,Entertainment,36.051971,-84.741545,37829.0
+fraud_Rau and Sons,grocery_pos,Electronics,46.636056,-121.144851,UNKNOWN
+fraud_Runolfsson and Sons,grocery_net,Clothing,41.075781,-73.101265,6615.0
+"fraud_Dare, Fritsch and Zboncak",health_fitness,Electronics,37.921578,-108.770648,UNKNOWN
+fraud_Cummerata-Jones,gas_transport,Electronics,37.733929,-94.503314,64771.0
+fraud_Strosin-Cruickshank,grocery_pos,Entertainment,30.153846,-97.568416,78617.0
+fraud_Barton LLC,kids_pets,Electronics,33.404795,-86.20627900000001,35014.0
+fraud_Murray Ltd,grocery_net,Groceries,41.41192,-78.747801,15853.0
+fraud_DuBuque LLC,grocery_pos,Electronics,34.219536,-97.98481,73573.0
+fraud_Fadel Inc,health_fitness,Electronics,29.788765,-81.279418,32080.0
+fraud_Sporer Inc,gas_transport,Restaurants,45.679384000000006,-93.363706,55017.0
+fraud_Gerlach Inc,shopping_net,Electronics,45.262825,-90.801592,54433.0
+fraud_Bruen-Yost,misc_pos,Clothing,46.615242,-86.624832,UNKNOWN
+fraud_Brown PLC,misc_net,Entertainment,36.609527,-97.868431,73766.0
+fraud_Cormier LLC,shopping_net,Groceries,41.55353,-91.419437,52755.0
+"fraud_Weber, Thiel and Hammes",kids_pets,Clothing,34.919059999999995,-94.65616,74940.0
+"fraud_Bradtke, Torp and Bahringer",personal_care,Restaurants,44.849621,-111.26608799999998,UNKNOWN
+fraud_Kunde-Sanford,misc_net,Groceries,31.54931,-101.018887,UNKNOWN
+fraud_Nienow PLC,entertainment,Entertainment,26.191055,-80.756197,UNKNOWN
+fraud_Prohaska-Murray,gas_transport,Restaurants,34.490054,-78.059798,28435.0
+fraud_Koelpin and Sons,misc_net,Restaurants,28.016987,-81.438142,34759.0
+fraud_Howe Ltd,misc_pos,Groceries,27.442928,-81.588542,33872.0
+fraud_Hilpert-Conroy,kids_pets,Entertainment,38.777718,-87.293582,47512.0
+fraud_Larkin Ltd,kids_pets,Groceries,19.866678,-156.244673,UNKNOWN
+fraud_Dickinson Ltd,personal_care,Electronics,40.611352,-82.945838,43314.0
+"fraud_Bahringer, Bergnaum and Quitzon",home,Entertainment,37.616591,-81.406692,25870.0
+"fraud_Windler, Goodwin and Kovacek",home,Entertainment,41.401749,-88.589798,61360.0
+fraud_Bernhard Inc,gas_transport,Entertainment,41.838693,-79.31124799999999,16371.0
+fraud_Fahey Inc,kids_pets,Restaurants,40.298234,-76.336884,17042.0
+fraud_Cruickshank-Mills,entertainment,Entertainment,33.890703,-86.015828,35907.0
+fraud_Luettgen PLC,gas_transport,Restaurants,41.582698,-81.129056,44024.0
+fraud_Kutch-Ferry,home,Entertainment,45.54866,-118.37737,UNKNOWN
+fraud_Donnelly LLC,entertainment,Groceries,42.113062,-87.76991,60022.0
+fraud_Corwin-Collins,gas_transport,Restaurants,42.027715,-73.190283,6058.0
+fraud_Zulauf LLC,personal_care,Groceries,33.189314,-112.782775,85322.0
+"fraud_Stokes, Christiansen and Sipes",grocery_net,Electronics,34.964247,-106.027486,87035.0
+fraud_Ortiz Group,grocery_net,Electronics,35.994098,-79.181722,27243.0
+fraud_Kirlin and Sons,personal_care,Entertainment,41.371134000000005,-75.380748,18463.0
+fraud_Kihn-Schuster,food_dining,Restaurants,35.278712,-83.632846,28781.0
+fraud_Friesen-D'Amore,gas_transport,Groceries,34.178803,-82.513243,29628.0
+fraud_Bednar PLC,kids_pets,Clothing,46.336849,-100.580442,58528.0
+"fraud_Eichmann, Bogan and Rodriguez",gas_transport,Electronics,42.02135,-109.499607,82932.0
+fraud_Kilback LLC,grocery_pos,Restaurants,43.803534,-121.39598,97707.0
+"fraud_Turner, Ruecker and Parisian",misc_pos,Clothing,40.144113,-83.424196,43045.0
+fraud_Streich Ltd,home,Entertainment,48.377519,-122.962536,98261.0
+fraud_Bartoletti-Wunsch,gas_transport,Restaurants,43.591962,-87.701914,53070.0
+fraud_Leffler-Goldner,personal_care,Clothing,44.606877,-95.843972,56239.0
+fraud_Friesen Inc,shopping_pos,Restaurants,34.904621,-78.089285,28453.0
+fraud_Upton PLC,entertainment,Restaurants,41.248225,-74.330013,10990.0
+fraud_Lynch-Wisozk,home,Entertainment,42.88668,-93.9134,50577.0
+fraud_Brown-Greenholt,entertainment,Clothing,46.835468,-119.378769,UNKNOWN
+fraud_Little Ltd,kids_pets,Clothing,42.906798,-96.782441,UNKNOWN
+fraud_Homenick LLC,personal_care,Clothing,36.983174,-96.997944,67005.0
+fraud_Rolfson-Kunde,personal_care,Clothing,41.082665000000006,-74.16069399999999,7430.0
+"fraud_Graham, Hegmann and Hammes",food_dining,Clothing,42.464779,-109.03911,UNKNOWN
+"fraud_Medhurst, Cartwright and Ebert",personal_care,Entertainment,46.973651,-102.131667,58638.0
+"fraud_Larkin, Stracke and Greenfelder",entertainment,Restaurants,31.551193,-85.375518,36317.0
+fraud_Marvin-Lind,personal_care,Restaurants,40.010147,-97.4175,68375.0
+fraud_Smitham-Boehm,grocery_net,Groceries,34.771784999999994,-117.699186,UNKNOWN
+fraud_Bins-Rice,gas_transport,Clothing,29.920454,-90.603239,70090.0
+fraud_Fisher-Schowalter,shopping_net,Electronics,33.406106,-81.953771,30901.0
+fraud_Huel-Langworth,misc_net,Electronics,37.83722,-78.160861,23084.0
+fraud_Dach-Borer,grocery_net,Entertainment,42.317483,-70.62795799999999,UNKNOWN
+fraud_McCullough LLC,misc_pos,Entertainment,32.616362,-98.462875,76475.0
+fraud_Erdman-Durgan,health_fitness,Restaurants,41.035108,-79.833621,16061.0
+fraud_Medhurst PLC,shopping_net,Groceries,42.143243,-77.609362,14839.0
+fraud_Kessler Group,travel,Groceries,29.809561,-85.122638,UNKNOWN
+fraud_Cummings LLC,gas_transport,Groceries,33.537156,-93.584412,71801.0
+fraud_Schoen Ltd,kids_pets,Restaurants,41.433139,-96.238887,68068.0
+fraud_Ebert-Daugherty,travel,Entertainment,45.77506,-91.11375,54862.0
+"fraud_Roob, Conn and Tremblay",shopping_pos,Groceries,42.636561,-124.43273700000002,97465.0
+fraud_Kris-Padberg,shopping_pos,Entertainment,33.926051,-80.304379,29153.0
+fraud_Kihn-Fritsch,food_dining,Electronics,39.446925,-79.974971,26374.0
+fraud_Feil-Morar,health_fitness,Clothing,28.69285,-96.125361,77465.0
+"fraud_Zboncak, Rowe and Murazik",shopping_net,Entertainment,32.153247,-98.271148,76401.0
+"fraud_Champlin, Rolfson and Connelly",travel,Clothing,27.241475,-79.907652,UNKNOWN
+"fraud_Heller, Gutmann and Zieme",grocery_pos,Groceries,45.158565,-72.79591500000001,UNKNOWN
+"fraud_Stroman, Hudson and Erdman",gas_transport,Groceries,38.119294,-80.32169,24946.0
+fraud_Koepp-Witting,grocery_pos,Entertainment,44.2819,-115.814411,UNKNOWN
+"fraud_Gottlieb, Considine and Schultz",shopping_net,Clothing,36.461358,-95.998877,74061.0
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,Restaurants,35.243069,-81.67703,28114.0
+fraud_Turner and Sons,shopping_pos,Clothing,38.81163,-76.92200600000001,20748.0
+"fraud_Boehm, Predovic and Reinger",misc_pos,Groceries,45.229723,-73.501304,UNKNOWN
+fraud_Kihn Inc,shopping_pos,Electronics,35.948372,-83.955632,37916.0
+fraud_Kerluke-Abshire,shopping_net,Electronics,64.22055999999999,-165.643504,UNKNOWN
+fraud_Macejkovic-Lesch,shopping_pos,Electronics,33.853818,-86.37581800000001,35953.0
+"fraud_Turcotte, McKenzie and Koss",entertainment,Groceries,48.196371,-123.145669,UNKNOWN
+fraud_Ledner-Pfannerstill,gas_transport,Entertainment,38.879206,-77.014247,20260.0
+"fraud_Schroeder, Wolff and Hermiston",travel,Electronics,39.765145,-93.90761,64644.0
+fraud_Pagac LLC,shopping_pos,Electronics,26.385690000000004,-99.998922,UNKNOWN
+"fraud_Metz, Russel and Metz",kids_pets,Clothing,40.146638,-79.474687,15610.0
+fraud_Fritsch and Sons,health_fitness,Clothing,38.202604,-89.75178100000001,62257.0
+fraud_Brown Inc,kids_pets,Clothing,41.361422,-87.90225699999999,60442.0
+fraud_Cartwright PLC,kids_pets,Groceries,39.937777,-79.15090699999999,15557.0
+fraud_Bashirian Group,shopping_net,Clothing,42.976955,-74.741591,13452.0
+"fraud_Hartmann, Rowe and Hermann",travel,Electronics,41.350963,-72.899709,6517.0
+fraud_Skiles LLC,home,Entertainment,46.131976,-94.183045,56449.0
+fraud_Pfeffer and Sons,shopping_pos,Entertainment,20.27164,-155.531857,UNKNOWN
+"fraud_Romaguera, Wehner and Tromp",kids_pets,Groceries,29.798051,-87.189123,UNKNOWN
+fraud_Torp-Lemke,misc_pos,Electronics,35.899221000000004,-81.456928,28645.0
+fraud_Kemmer-Buckridge,misc_pos,Electronics,30.200740000000003,-94.938441,UNKNOWN
+"fraud_Harris, Gusikowski and Heaney",grocery_net,Groceries,41.667732,-83.953237,43540.0
+"fraud_Mosciski, Gislason and Mertz",grocery_pos,Clothing,33.595142,-89.48156,39767.0
+"fraud_Prosacco, Kreiger and Kovacek",home,Electronics,42.288565000000006,-123.503812,97538.0
+fraud_Harris Inc,gas_transport,Clothing,43.955948,-123.702121,97490.0
+fraud_Crooks and Sons,personal_care,Clothing,27.398089,-80.996865,34972.0
+"fraud_Jenkins, Hauck and Friesen",gas_transport,Clothing,34.226531,-88.721818,38801.0
+fraud_Buckridge PLC,misc_pos,Clothing,40.11961,-93.291237,64646.0
+"fraud_Rohan, White and Aufderhar",misc_net,Groceries,39.328599,-122.838287,95485.0
+fraud_Medhurst Inc,home,Clothing,43.365556,-108.258041,UNKNOWN
+fraud_Dare-Gibson,health_fitness,Electronics,33.788249,-96.846826,76264.0
+fraud_Zboncak Ltd,food_dining,Electronics,39.540211,-77.923914,25419.0
+"fraud_Mueller, Gerhold and Mueller",health_fitness,Restaurants,39.307131,-91.634993,63345.0
+fraud_Kuphal-Bartoletti,misc_net,Restaurants,48.927653,-93.288203,UNKNOWN
+fraud_Schiller Ltd,personal_care,Electronics,28.995785,-89.251436,UNKNOWN
+"fraud_Bins, Balistreri and Beatty",shopping_pos,Groceries,40.600875,-74.381828,8820.0
+fraud_Jakubowski Inc,home,Restaurants,42.471796000000005,-90.509623,53811.0
+fraud_Goodwin-Nitzsche,grocery_pos,Entertainment,34.081298,-117.845605,91724.0
+"fraud_Altenwerth, Cartwright and Koss",shopping_net,Electronics,41.19734,-103.485237,69133.0
+"fraud_Nicolas, Hills and McGlynn",entertainment,Groceries,37.191187,-81.786825,24622.0
+fraud_Smith-Stokes,misc_pos,Electronics,34.835263,-86.261227,35766.0
+fraud_Stamm-Witting,shopping_net,Electronics,37.800106,-89.501998,62950.0
+"fraud_Bahringer, Schoen and Corkery",shopping_pos,Groceries,35.242086,-92.338135,72058.0
+"fraud_Terry, Johns and Bins",misc_pos,Electronics,42.25888,-80.203017,16505.0
+"fraud_Hermiston, Russel and Price",food_dining,Clothing,33.599624,-118.47043,UNKNOWN
+"fraud_Schaefer, Fay and Hilll",entertainment,Entertainment,40.434547,-121.008822,UNKNOWN
+fraud_Gislason Group,misc_pos,Entertainment,41.052391,-123.294257,UNKNOWN
+"fraud_Schiller, Blanda and Johnson",home,Entertainment,33.806795,-117.455763,92881.0
+fraud_McKenzie-Huels,food_dining,Entertainment,36.935001,-80.032123,24088.0
+"fraud_Daugherty, Pouros and Beahan",shopping_pos,Entertainment,39.054017,-94.703349,66106.0
+fraud_Hudson-Ratke,grocery_pos,Electronics,37.738556,-94.693146,66741.0
+fraud_Botsford PLC,home,Electronics,43.873449,-79.714838,UNKNOWN
+fraud_Bogisich-Weimann,kids_pets,Groceries,32.866619,-87.77525,35441.0
+"fraud_Runte, Green and Emard",health_fitness,Entertainment,37.770551,-121.380216,95376.0
+fraud_Bins-Tillman,entertainment,Restaurants,32.047778,-84.832025,31815.0
+fraud_Lockman Ltd,grocery_pos,Electronics,42.313721,-97.340364,68771.0
+fraud_Botsford Ltd,shopping_pos,Electronics,33.910586,-85.007855,30153.0
+fraud_Connelly-Carter,home,Groceries,32.926306,-111.540058,85228.0
+"fraud_Effertz, Welch and Schowalter",entertainment,Electronics,43.641386,-86.424839,49436.0
+"fraud_Bahringer, Osinski and Block",food_dining,Electronics,38.817609,-89.355747,62253.0
+"fraud_O'Connell, Botsford and Hand",home,Clothing,44.192846,-96.679634,57002.0
+fraud_Kling Inc,gas_transport,Entertainment,45.725058,-111.496421,59741.0
+fraud_Ruecker-Mayert,kids_pets,Clothing,32.376893,-86.211146,36109.0
+"fraud_Schumm, Bauch and Ondricka",grocery_pos,Groceries,33.45853,-96.280468,75490.0
+fraud_Prosacco LLC,personal_care,Electronics,39.275534,-77.621714,20180.0
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,Clothing,26.869511,-79.84559,UNKNOWN
+fraud_Parisian and Sons,gas_transport,Electronics,30.041970000000003,-89.834355,70129.0
+"fraud_Cronin, Kshlerin and Weber",health_fitness,Restaurants,29.567394,-98.933162,78056.0
+fraud_Leannon-Ward,food_dining,Entertainment,38.875425,-78.49229,22664.0
+fraud_Kilback and Sons,entertainment,Restaurants,25.94007,-98.45064,UNKNOWN
+fraud_Bode-Rempel,kids_pets,Groceries,44.823049,-94.495309,55385.0
+"fraud_Reinger, Weissnat and Strosin",food_dining,Clothing,38.857528,-123.323786,95494.0
+fraud_Ruecker Group,misc_net,Electronics,32.816391,-80.51939,29474.0
+fraud_Roob-Okuneva,health_fitness,Restaurants,35.847581,-89.155377,38001.0
+fraud_Johns Inc,entertainment,Restaurants,40.453029,-89.47703100000001,61747.0
+fraud_McDermott-Rice,misc_pos,Restaurants,34.594053,-82.202026,29645.0
+fraud_Friesen-Stamm,gas_transport,Entertainment,41.197237,-90.540189,61486.0
+fraud_Waters-Cruickshank,health_fitness,Entertainment,40.942820000000005,-76.869249,17837.0
+"fraud_Ferry, Lynch and Kautzer",misc_net,Clothing,37.638419,-89.402666,62975.0
+fraud_Hackett-Lueilwitz,grocery_pos,Clothing,41.437051,-75.32652399999999,18436.0
+"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,Restaurants,32.060747,-105.547853,UNKNOWN
+fraud_Kuhn Group,food_dining,Electronics,42.038916,-80.942008,UNKNOWN
+fraud_Flatley Group,misc_pos,Restaurants,42.871268,-83.595426,48439.0
+"fraud_Kerluke, Kertzmann and Wiza",misc_net,Entertainment,35.952865,-97.529163,73028.0
+fraud_Miller-Hauck,grocery_pos,Restaurants,40.989316,-81.385345,44685.0
+"fraud_Bernhard, Grant and Langworth",shopping_pos,Entertainment,34.228245,-118.618318,91304.0
+"fraud_Schmeler, Bashirian and Price",shopping_net,Electronics,45.734625,-74.15731099999999,UNKNOWN
+fraud_Skiles-Ankunding,grocery_net,Restaurants,39.169327,-100.19704,67752.0
+fraud_Barton Inc,grocery_pos,Groceries,34.683814,-81.285814,29706.0
+fraud_Wolf Inc,grocery_pos,Clothing,48.085256,-122.429835,98260.0
+fraud_Gottlieb Group,kids_pets,Restaurants,39.91928,-79.978542,15357.0
+fraud_Schmidt-Larkin,home,Groceries,34.5859,-118.548896,93532.0
+fraud_Auer-Mosciski,grocery_pos,Entertainment,33.087296,-84.54724,30218.0
+fraud_O'Keefe-Hudson,grocery_pos,Entertainment,37.975048,-81.70330899999999,25093.0
+fraud_Roob LLC,grocery_net,Entertainment,42.239195,-80.226951,16505.0
+fraud_Sporer-Keebler,personal_care,Restaurants,32.811498,-80.819141,29916.0
+fraud_Christiansen-Gusikowski,misc_pos,Electronics,38.900685,-82.945347,45648.0
+"fraud_Welch, Rath and Koepp",entertainment,Restaurants,40.984697,-71.917528,11954.0
+fraud_Frami Group,entertainment,Restaurants,30.906117,-88.33933,36587.0
+fraud_Dietrich-Fadel,health_fitness,Electronics,41.34495,-71.97835,6355.0
+fraud_Watsica LLC,personal_care,Restaurants,33.536641,-112.515811,85355.0
+"fraud_Kuhic, Bins and Pfeffer",shopping_net,Clothing,43.939275,-73.272865,5770.0
+"fraud_McDermott, Osinski and Morar",home,Groceries,30.819541,-89.891696,70427.0
+fraud_Schuppe LLC,entertainment,Restaurants,40.839246,-93.135828,52583.0
+"fraud_Cremin, Hamill and Reichel",misc_pos,Clothing,38.227741,-109.876295,UNKNOWN
+fraud_Reynolds-Schinner,misc_pos,Clothing,40.996567,-87.558802,60912.0
+"fraud_Lowe, Dietrich and Erdman",kids_pets,Restaurants,39.19943,-110.068659,UNKNOWN
+fraud_Johnston-Casper,travel,Electronics,42.042409,-78.66449399999999,14753.0
+fraud_Predovic Inc,shopping_net,Groceries,38.137247,-89.536344,62237.0
+fraud_Jast-McDermott,shopping_pos,Entertainment,33.281803000000004,-118.696008,UNKNOWN
+fraud_Quitzon-Goyette,home,Entertainment,37.42228,-122.766259,UNKNOWN
+"fraud_Kutch, Steuber and Gerhold",food_dining,Clothing,41.895535,-71.776385,2825.0
+fraud_Dare-Marvin,entertainment,Groceries,37.980744,-80.87320600000001,25831.0
+fraud_Pouros-Conroy,shopping_pos,Restaurants,45.682342,-88.26360600000001,54119.0
+"fraud_Moen, Reinger and Murphy",grocery_pos,Electronics,34.941498,-118.519441,UNKNOWN
+fraud_Wilkinson LLC,personal_care,Restaurants,30.06988,-90.707195,70071.0
+"fraud_Mosciski, Ziemann and Farrell",shopping_net,Electronics,40.176861,-81.157331,43983.0
+fraud_Conroy Ltd,shopping_pos,Groceries,30.235396,-97.566201,78725.0
+fraud_Jacobi and Sons,shopping_pos,Entertainment,40.855744,-72.22970600000001,11937.0
+"fraud_Lind, Huel and McClure",gas_transport,Entertainment,38.567778,-92.932706,65329.0
+fraud_Douglas-White,entertainment,Clothing,45.042,-72.588717,5476.0
+"fraud_Witting, Beer and Ernser",home,Groceries,37.032675,-82.55516,24293.0
+fraud_Pfeffer LLC,grocery_net,Groceries,39.142898,-93.877462,64067.0
+fraud_Spencer PLC,entertainment,Groceries,29.515445,-91.635098,UNKNOWN
+fraud_Schaefer Ltd,kids_pets,Groceries,43.808047,-90.333222,54638.0
+fraud_Wiza LLC,misc_pos,Restaurants,36.116715,-88.027762,38333.0
+fraud_Yost-Rogahn,personal_care,Entertainment,33.457546,-95.591116,75450.0
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,Groceries,42.333112,-88.77024,61065.0
+"fraud_Reichert, Shanahan and Hayes",shopping_net,Electronics,38.181469,-75.274149,21841.0
+fraud_Padberg-Welch,grocery_pos,Groceries,36.620411,-85.552128,42151.0
+fraud_Thiel PLC,misc_pos,Clothing,41.508642,-75.27972,18431.0
+fraud_Lubowitz-Walter,kids_pets,Entertainment,29.935488,-90.291517,70031.0
+fraud_Schmitt Ltd,misc_net,Restaurants,37.529064,-90.816852,63656.0
+fraud_Volkman Ltd,misc_net,Electronics,36.504819,-84.991776,38577.0
+"fraud_Baumbach, Feeney and Morar",shopping_net,Electronics,43.421064,-108.07542,UNKNOWN
+fraud_Stiedemann Inc,misc_pos,Clothing,40.782503000000005,-80.86658,44423.0
+"fraud_Koss, Hansen and Lueilwitz",home,Restaurants,32.355994,-89.305,39092.0
+"fraud_Tillman, Fritsch and Schmitt",misc_net,Electronics,42.007033,-101.578853,69366.0
+"fraud_Goyette, Howell and Collier",shopping_pos,Entertainment,36.674099,-77.569229,23847.0
+"fraud_Little, Gutmann and Lynch",shopping_net,Clothing,41.48846,-74.613427,12729.0
+"fraud_Tillman, Dickinson and Labadie",gas_transport,Entertainment,32.12597,-91.257873,71357.0
+fraud_Renner Ltd,home,Groceries,39.79879,-80.216297,15362.0
+fraud_Herzog Ltd,misc_pos,Restaurants,31.749498,-103.310828,UNKNOWN
+fraud_Kutch and Sons,grocery_pos,Groceries,36.691622,-89.75895899999999,63870.0
+fraud_Collier Inc,grocery_net,Groceries,42.972427,-93.891588,50430.0
+"fraud_Dare, Casper and Bartoletti",kids_pets,Groceries,42.234168,-79.018063,14726.0
+fraud_Breitenberg LLC,travel,Clothing,37.346331,-123.180676,UNKNOWN
+"fraud_Lesch, D'Amore and Brown",food_dining,Clothing,47.3746,-120.309909,98801.0
+"fraud_Ruecker, Beer and Collier",shopping_net,Restaurants,34.024072,-91.620034,71643.0
+fraud_Powlowski-Weimann,food_dining,Groceries,33.209432,-81.7439,29831.0
+fraud_Heathcote LLC,shopping_net,Entertainment,39.627982,-106.138173,80498.0
+fraud_Schulist Ltd,food_dining,Restaurants,41.691516,-82.333809,UNKNOWN
+fraud_Kutch-Wilderman,home,Electronics,40.321865,-72.86924499999999,UNKNOWN
+"fraud_Roberts, Ryan and Smith",personal_care,Restaurants,40.613423,-87.150446,47971.0
+"fraud_Zieme, Bode and Dooley",gas_transport,Clothing,49.127741,-119.049649,UNKNOWN
+fraud_Thompson-Gleason,health_fitness,Electronics,34.616395000000004,-91.630518,72072.0
+fraud_Jast and Sons,food_dining,Groceries,33.201896000000005,-115.797396,UNKNOWN
+fraud_Volkman-Predovic,shopping_net,Groceries,33.220638,-118.074164,UNKNOWN
+"fraud_Brown, Homenick and Lesch",health_fitness,Groceries,41.670294,-74.686267,12701.0
+"fraud_Kutch, Hermiston and Farrell",gas_transport,Clothing,40.375185,-76.152238,19567.0
+fraud_Vandervort-Funk,grocery_pos,Electronics,29.022385,-79.921389,UNKNOWN
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,Electronics,40.193127,-99.160841,68971.0
+fraud_Reilly and Sons,health_fitness,Restaurants,44.016473,-103.050749,57703.0
+fraud_Heller-Langosh,gas_transport,Electronics,43.293222,-72.614,5143.0
+fraud_Kozey-Kuhlman,personal_care,Clothing,36.908967,-119.151846,93602.0
+fraud_Kuphal-Predovic,misc_net,Restaurants,38.798356,-90.259393,63033.0
+fraud_Kiehn-Emmerich,grocery_pos,Clothing,39.775589,-74.038234,8752.0
+"fraud_Streich, Hansen and Veum",gas_transport,Electronics,48.166771,-103.533189,58801.0
+"fraud_Berge, Kautzer and Harris",personal_care,Groceries,41.412605,-78.270236,15821.0
+"fraud_Willms, Kris and Bergnaum",shopping_pos,Groceries,38.134338,-97.861874,67502.0
+"fraud_Raynor, Feest and Miller",gas_transport,Clothing,40.06098,-77.378151,17266.0
+fraud_Hills-Boyer,personal_care,Clothing,39.6335,-86.63018100000001,46180.0
+fraud_Ankunding LLC,shopping_net,Electronics,32.104378999999994,-79.276588,UNKNOWN
+"fraud_Raynor, Reinger and Hagenes",gas_transport,Groceries,39.943896,-88.591143,61813.0
+fraud_Bartoletti and Sons,personal_care,Clothing,46.044162,-93.166988,55007.0
+fraud_Lynch Ltd,shopping_pos,Clothing,40.14448,-79.203524,15677.0
+fraud_Schmeler Inc,misc_pos,Entertainment,44.677881,-74.22880699999999,12969.0
+fraud_Parker-Kunde,personal_care,Restaurants,36.69068,-83.52014399999999,40813.0
+fraud_Lemke-Gutmann,shopping_net,Electronics,32.60011,-96.476732,75114.0
+fraud_Huels-Hahn,gas_transport,Restaurants,43.647774,-108.905541,UNKNOWN
+"fraud_Towne, Greenholt and Koepp",shopping_net,Clothing,41.642368,-80.818074,44084.0
+fraud_Stoltenberg-Beatty,shopping_pos,Entertainment,41.952342,-76.516143,18810.0
+fraud_Erdman-Kertzmann,gas_transport,Groceries,32.874427000000004,-92.795166,71079.0
+fraud_Dooley Inc,shopping_pos,Clothing,41.516168,-109.821937,UNKNOWN
+"fraud_Towne, Walker and Borer",grocery_net,Entertainment,43.870826,-92.924496,55940.0
+fraud_Rau-Grant,kids_pets,Restaurants,40.2586,-82.78282800000001,43074.0
+fraud_Volkman PLC,food_dining,Clothing,39.909334,-109.654515,UNKNOWN
+"fraud_Fadel, Mertz and Rippin",entertainment,Entertainment,30.760765000000003,-91.489076,70760.0
+fraud_Hyatt-Blick,travel,Entertainment,34.710221999999995,-101.781906,79042.0
+"fraud_Crist, Jakubowski and Littel",home,Entertainment,39.705605,-86.069025,46107.0
+fraud_Runte-Mohr,food_dining,Entertainment,38.984123,-104.373008,80808.0
+fraud_Turcotte-Halvorson,misc_pos,Restaurants,38.356365,-96.334062,66801.0
+"fraud_Casper, Hand and Zulauf",grocery_pos,Electronics,31.028639,-102.925571,79735.0
+fraud_Klein Group,entertainment,Groceries,40.65058,-104.904569,80549.0
+fraud_Kerluke PLC,misc_net,Clothing,42.751789,-85.833197,49323.0
+"fraud_Reichert, Rowe and Mraz",shopping_net,Restaurants,42.514778,-83.313919,48025.0
+"fraud_Kihn, Brakus and Goyette",personal_care,Clothing,39.001667,-87.513127,47861.0
+fraud_Kutch-Hegmann,grocery_net,Clothing,41.943807,-74.70407800000001,12758.0
+fraud_Terry Ltd,home,Restaurants,38.209214,-77.423804,22408.0
+fraud_Abbott-Rogahn,entertainment,Groceries,36.582408,-80.11762399999999,24082.0
+"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,Groceries,34.266672,-85.998538,35962.0
+fraud_Haag-Blanda,food_dining,Restaurants,33.249015,-95.504715,75437.0
+fraud_Pouros-Haag,shopping_pos,Clothing,29.790703000000004,-90.054686,70037.0
+fraud_Bode-Schuster,kids_pets,Groceries,33.648302,-81.702363,29805.0
+fraud_Rodriguez Group,gas_transport,Groceries,40.404314,-91.641227,63472.0
+fraud_Block Group,misc_pos,Entertainment,44.426508,-71.148747,3581.0
+fraud_Block-Parisian,misc_net,Groceries,38.662448,-87.040498,47558.0
+fraud_Berge-Ullrich,home,Restaurants,43.646764000000005,-86.88729599999999,UNKNOWN
+"fraud_Tromp, Kerluke and Glover",grocery_net,Restaurants,36.647168,-98.000415,73761.0
+"fraud_Robel, Cummerata and Prosacco",gas_transport,Clothing,34.526514,-89.177464,38650.0
+fraud_Bechtelar-Rippin,food_dining,Entertainment,43.097172,-86.262173,49417.0
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,Clothing,38.940707,-82.74076600000001,45653.0
+"fraud_Wuckert, Wintheiser and Friesen",home,Restaurants,40.835292,-79.246385,16222.0
+fraud_Stiedemann Ltd,food_dining,Groceries,36.210566,-97.454589,73757.0
+fraud_Gleason-Macejkovic,shopping_net,Groceries,41.8776,-79.20083699999999,16365.0
+fraud_Kerluke Inc,misc_net,Entertainment,39.045355,-89.357632,62017.0
+fraud_Schmitt Inc,gas_transport,Electronics,42.887745,-77.231154,14424.0
+fraud_Emmerich-Luettgen,grocery_net,Groceries,44.896994,-70.93589,UNKNOWN
+fraud_Bahringer-Larson,grocery_net,Restaurants,40.126129,-78.95407,15548.0
+"fraud_Ledner, Hartmann and Feest",health_fitness,Electronics,39.360983,-86.922248,47833.0
+fraud_Friesen-Ortiz,personal_care,Clothing,35.57281,-97.152366,73054.0
+fraud_Fritsch LLC,travel,Electronics,38.419317,-81.301937,25030.0
+fraud_Kuvalis Ltd,gas_transport,Electronics,37.082607,-89.84263100000001,63730.0
+fraud_Kiehn Inc,grocery_pos,Restaurants,39.642473,-93.815681,64624.0
+"fraud_Durgan, Gislason and Spencer",home,Clothing,41.846702,-73.643249,12581.0
+fraud_Koepp-Parker,grocery_pos,Entertainment,46.489175,-118.985381,99330.0
+"fraud_Hodkiewicz, Prohaska and Paucek",travel,Entertainment,41.597658,-72.626638,6416.0
+"fraud_McLaughlin, Armstrong and Koepp",travel,Entertainment,37.659949,-75.396985,UNKNOWN
+fraud_Eichmann-Kilback,home,Electronics,26.740865000000003,-81.60061800000001,33920.0
+fraud_Lind-Buckridge,entertainment,Electronics,36.875466,-97.26139,74632.0
+fraud_Little-Gleichner,travel,Clothing,29.513898,-98.899718,78056.0
+fraud_Boyer-Haley,travel,Entertainment,38.942139000000005,-77.501369,20152.0
+"fraud_Langworth, Boehm and Gulgowski",shopping_net,Restaurants,27.273283000000003,-82.870609,UNKNOWN
+fraud_Heidenreich PLC,grocery_pos,Electronics,46.822784000000006,-101.600737,58520.0
+fraud_Barrows PLC,shopping_pos,Electronics,31.077508,-85.36110500000001,36320.0
+fraud_Dooley-Thompson,misc_net,Restaurants,39.779722,-78.529489,21530.0
+fraud_Hintz-Bruen,grocery_net,Electronics,35.917107,-106.199957,87544.0
+fraud_Ziemann-Waters,health_fitness,Groceries,40.406594,-119.40708899999998,UNKNOWN
+fraud_Bins-Howell,personal_care,Electronics,38.488105,-81.771529,25159.0
+fraud_Reichel Inc,entertainment,Groceries,33.904556,-87.16476899999999,35504.0
+fraud_Kemmer-Reinger,grocery_net,Restaurants,38.099990000000005,-76.068812,21821.0
+fraud_Koss and Sons,gas_transport,Electronics,47.170517,-87.370216,UNKNOWN
+"fraud_Turner, Ziemann and Lehner",food_dining,Entertainment,43.454007,-77.555642,UNKNOWN
+fraud_Jast Ltd,shopping_net,Groceries,39.885424,-97.892582,66964.0
+fraud_Kutch LLC,gas_transport,Groceries,38.546735,-74.569549,UNKNOWN
+fraud_Monahan-Morar,personal_care,Entertainment,41.139628,-73.017457,6460.0
+fraud_Hills-Olson,grocery_net,Groceries,34.46845,-111.929502,86322.0
+fraud_Stracke-Lemke,grocery_pos,Electronics,37.054649,-123.176749,UNKNOWN
+fraud_White and Sons,home,Groceries,42.521365,-74.643025,12036.0
+fraud_Padberg-Sauer,home,Electronics,39.907842,-99.18498,UNKNOWN
+"fraud_Greenfelder, Bartoletti and Davis",misc_net,Restaurants,32.873552000000004,-87.291531,35034.0
+fraud_Cummings Group,grocery_net,Electronics,45.299086,-105.375607,59317.0
+fraud_Osinski Inc,personal_care,Entertainment,39.592062,-79.334182,21520.0
+fraud_Rempel Inc,shopping_net,Entertainment,44.204381,-78.10518,UNKNOWN
+fraud_Erdman-Schaden,personal_care,Clothing,42.055566,-81.070708,UNKNOWN
+fraud_Wilkinson Ltd,entertainment,Electronics,35.179525,-88.57032099999999,38375.0
+fraud_Bauch-Raynor,grocery_pos,Clothing,43.143703,-75.756385,13032.0
+fraud_Weimann-Lockman,kids_pets,Electronics,44.211994,-122.7424,97454.0
+fraud_Waelchi-Wolf,kids_pets,Electronics,47.815503,-96.122134,56715.0
+"fraud_Moore, Dibbert and Koepp",misc_net,Entertainment,42.063241,-79.01899499999999,14747.0
+"fraud_Hills, Hegmann and Schaefer",health_fitness,Clothing,39.197574,-79.780411,26425.0
+fraud_Klocko LLC,misc_net,Entertainment,35.350227000000004,-112.564742,UNKNOWN
+fraud_Williamson LLC,misc_pos,Clothing,38.47699,-74.536209,UNKNOWN
+fraud_Gleason and Sons,kids_pets,Clothing,40.107611,-99.652189,68977.0
+fraud_Bernier and Sons,kids_pets,Electronics,45.430476,-89.961929,54564.0
+"fraud_McCullough, Hudson and Schuster",food_dining,Restaurants,25.884464,-82.657893,UNKNOWN
+fraud_Padberg-Rogahn,entertainment,Entertainment,27.79784,-80.945854,34739.0
+fraud_Fadel-Hilpert,health_fitness,Groceries,47.251808,-118.113485,99032.0
+fraud_Hills-Witting,shopping_net,Groceries,35.624824,-83.693795,37882.0
+fraud_Wisozk and Sons,misc_pos,Clothing,46.518099,-118.845609,99301.0
+fraud_Grimes LLC,entertainment,Clothing,39.681431,-76.123659,21918.0
+fraud_Nolan-Williamson,kids_pets,Clothing,43.300384,-74.16891700000001,12134.0
+fraud_Herman Inc,misc_pos,Groceries,49.057393,-113.372472,UNKNOWN
+fraud_Spencer-Runolfsson,misc_pos,Restaurants,30.622522,-81.72605899999999,32011.0
+"fraud_Cole, Hills and Jewess",home,Clothing,41.697115,-79.141809,16347.0
+fraud_Goldner-Lemke,entertainment,Entertainment,36.443045,-78.886188,27574.0
+"fraud_Mante, Luettgen and Hackett",health_fitness,Groceries,40.495978,-79.920416,15215.0
+"fraud_Reilly, Heaney and Cole",gas_transport,Entertainment,31.168969,-99.105506,76872.0
+fraud_Kutch Group,grocery_net,Restaurants,36.68867,-93.539089,65624.0
+fraud_Beier and Sons,home,Restaurants,39.638182,-98.916164,67628.0
+"fraud_Turcotte, Batz and Buckridge",health_fitness,Restaurants,39.735313,-83.95883,45434.0
+fraud_Lemke and Sons,travel,Clothing,45.471886,-118.117341,97876.0
+fraud_Boyer-Reichert,shopping_net,Entertainment,33.333769000000004,-90.547214,38753.0
+fraud_Satterfield-Lowe,travel,Restaurants,40.053107,-92.586511,63549.0
+"fraud_Labadie, Treutel and Bode",shopping_net,Clothing,41.07985,-80.697568,44511.0
+fraud_Schroeder Group,health_fitness,Groceries,38.66854,-83.67065500000001,45144.0
+fraud_Murray-Smitham,grocery_pos,Entertainment,39.000961,-74.547651,UNKNOWN
+"fraud_Gutmann, McLaughlin and Wiza",home,Restaurants,37.632274,-105.471631,UNKNOWN
+"fraud_Schoen, Kuphal and Nitzsche",grocery_pos,Entertainment,29.476887,-95.600506,77479.0
+"fraud_Romaguera, Cruickshank and Greenholt",shopping_net,Restaurants,33.284167,-82.00104,30906.0
+"fraud_Conroy, Balistreri and Gorczany",health_fitness,Electronics,38.331248,-122.703134,94928.0
+fraud_Mraz-Herzog,gas_transport,Restaurants,40.886884,-83.692175,45841.0
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,Electronics,44.356488,-87.216988,UNKNOWN
+fraud_Conroy-Emard,food_dining,Entertainment,28.808139,-81.51840899999999,32776.0
+"fraud_Kunze, Larkin and Mayert",travel,Groceries,25.80147,-98.479293,UNKNOWN
+"fraud_Hermiston, Pacocha and Smith",health_fitness,Clothing,39.334541,-93.966984,64085.0
+"fraud_Ferry, Reichel and DuBuque",grocery_net,Clothing,38.895801,-106.955898,81224.0
+"fraud_Heathcote, Yost and Kertzmann",shopping_net,Entertainment,42.207238,-106.427284,UNKNOWN
+fraud_Nader-Maggio,personal_care,Entertainment,40.504649,-77.926887,16652.0
+fraud_Metz-Boehm,shopping_pos,Clothing,40.025768,-98.398091,68942.0
+"fraud_Swift, Bradtke and Marquardt",grocery_net,Restaurants,40.796391,-100.660822,69170.0
+fraud_O'Keefe-Wisoky,food_dining,Restaurants,33.735145,-81.206074,29123.0
+fraud_Romaguera Ltd,health_fitness,Electronics,45.071894,-108.224876,UNKNOWN
+"fraud_Parker, Nolan and Trantow",entertainment,Clothing,37.982987,-89.073539,62822.0
+fraud_Wilkinson PLC,kids_pets,Clothing,42.591941,-70.73413599999999,1944.0
+fraud_Schuppe-Schuppe,food_dining,Restaurants,33.310953999999995,-111.891966,85224.0
+fraud_Kassulke Inc,entertainment,Restaurants,34.16894,-117.28253,92405.0
+"fraud_Olson, Becker and Koch",gas_transport,Groceries,41.345653000000006,-74.939851,18425.0
+fraud_Roberts-Beahan,misc_pos,Electronics,33.740519,-90.090469,38950.0
+"fraud_Kihn, Abernathy and Douglas",shopping_net,Entertainment,38.009744,-95.027093,66010.0
+fraud_Baumbach Ltd,personal_care,Restaurants,38.295486,-79.695553,24468.0
+"fraud_Zemlak, Tillman and Cremin",personal_care,Restaurants,36.226134,-79.94639000000001,27357.0
+"fraud_Monahan, Hermann and Johns",travel,Electronics,34.846937,-81.75914399999999,29372.0
+"fraud_Becker, Harris and Harvey",personal_care,Electronics,26.198472,-80.452277,33327.0
+fraud_Goyette Inc,shopping_net,Entertainment,48.478396,-113.085102,UNKNOWN
+"fraud_Lockman, West and Runte",grocery_pos,Entertainment,43.651595,-75.15213100000001,13494.0
+fraud_Hirthe-Beier,health_fitness,Clothing,44.966371,-103.509691,UNKNOWN
+fraud_Denesik and Sons,shopping_pos,Electronics,40.737679,-74.60489399999999,7924.0
+fraud_Durgan-Auer,misc_net,Entertainment,36.589668,-97.432638,74630.0
+fraud_Morissette PLC,shopping_pos,Electronics,39.152934,-91.948254,65285.0
+"fraud_Ritchie, Bradtke and Stiedemann",travel,Restaurants,38.007806,-86.302661,40157.0
+fraud_Kozey-McDermott,travel,Restaurants,40.719009,-101.22745,69169.0
+fraud_Ankunding-Carroll,travel,Electronics,33.019624,-89.138743,39346.0
+fraud_Rau-Robel,kids_pets,Electronics,32.957329,-86.494313,35046.0
+fraud_Donnelly PLC,misc_net,Restaurants,30.492848,-91.646065,70756.0
+fraud_Auer LLC,personal_care,Electronics,35.488369,-97.290848,73020.0
+fraud_Kris-Weimann,misc_net,Restaurants,36.493647,-96.564376,74637.0
+fraud_Bradtke PLC,grocery_pos,Restaurants,41.135481,-73.697653,10504.0
+fraud_Windler LLC,kids_pets,Entertainment,39.793483,-79.362178,15424.0
+fraud_Kuphal-Toy,food_dining,Restaurants,37.007025,-86.52195999999999,42101.0
+fraud_Corwin-Romaguera,travel,Clothing,39.401066,-76.682193,21208.0
+fraud_Conroy-Cruickshank,gas_transport,Electronics,34.194821000000005,-84.031462,30041.0
+"fraud_Schroeder, Hauck and Treutel",entertainment,Electronics,43.431899,-85.835041,49337.0
+"fraud_Stanton, Jakubowski and Baumbach",shopping_net,Entertainment,43.585355,-102.818982,UNKNOWN
+fraud_McGlynn-Heathcote,misc_net,Entertainment,33.617705,-95.230466,75436.0
+fraud_Reichel LLC,personal_care,Restaurants,39.534113,-74.591071,8215.0
+"fraud_Parisian, Schiller and Altenwerth",misc_net,Groceries,48.620892,-113.117453,59417.0
+fraud_Sawayn PLC,shopping_pos,Entertainment,34.900351,-77.706372,28518.0
+fraud_Kub PLC,personal_care,Entertainment,33.145658000000005,-116.494095,92066.0
+fraud_Daugherty LLC,kids_pets,Clothing,32.966709,-91.995491,UNKNOWN
+"fraud_Monahan, Bogisich and Ledner",misc_pos,Electronics,35.243011,-97.585701,73065.0
+"fraud_Bernier, Streich and Jewess",grocery_net,Groceries,44.207031,-88.866219,54940.0
+fraud_Goyette-Gerhold,kids_pets,Groceries,36.489832,-90.295815,72456.0
+"fraud_Yost, Schamberger and Windler",kids_pets,Groceries,39.357217,-88.862942,62438.0
+fraud_Champlin and Sons,home,Restaurants,46.025006,-118.551487,99324.0
+fraud_Greenholt Ltd,health_fitness,Groceries,37.692846,-79.952914,24426.0
+"fraud_Nienow, Ankunding and Collier",misc_pos,Groceries,39.616448,-79.995576,26501.0
+fraud_Brekke and Sons,gas_transport,Groceries,29.989522,-103.558581,UNKNOWN
+"fraud_Quitzon, Green and Bashirian",shopping_pos,Restaurants,40.439276,-102.700784,UNKNOWN
+fraud_Gutmann Ltd,grocery_net,Groceries,39.084661,-83.33756,45646.0
+"fraud_Streich, Dietrich and Barton",shopping_net,Groceries,29.808314000000003,-83.660386,UNKNOWN
+fraud_O'Hara-Wilderman,food_dining,Groceries,39.763484000000005,-74.38590400000001,8019.0
+fraud_Tillman LLC,travel,Clothing,39.880897,-120.57087,96103.0
+fraud_Emard Inc,gas_transport,Restaurants,33.112109000000004,-82.916984,31094.0
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,Clothing,39.687782,-74.78906500000001,8089.0
+"fraud_Klocko, Runolfsdottir and Breitenberg",health_fitness,Clothing,38.026576,-75.325307,21864.0
+"fraud_Watsica, Haag and Considine",shopping_pos,Entertainment,41.729169,-105.896188,82083.0
+fraud_Berge-Hills,kids_pets,Groceries,39.914388,-89.48346,62693.0
+fraud_McGlynn-Jaskolski,misc_pos,Electronics,34.704269000000004,-119.4391,UNKNOWN
+fraud_Effertz LLC,entertainment,Restaurants,41.075147,-81.554459,44307.0
+"fraud_Rippin, Kub and Mann",misc_net,Restaurants,41.006522,-73.526329,6870.0
+fraud_Wuckert-Goldner,home,Restaurants,43.894952,-88.702747,54964.0
+"fraud_O'Reilly, Mohr and Purdy",home,Groceries,46.333805,-96.142991,56533.0
+"fraud_Denesik, Powlowski and Pouros",home,Entertainment,28.969712,-95.922365,77414.0
+fraud_Bogisich-Homenick,misc_net,Entertainment,37.463784,-86.78268800000001,42349.0
+fraud_Jewess LLC,shopping_pos,Entertainment,37.302501,-122.855549,UNKNOWN
+fraud_Kunze Inc,grocery_pos,Restaurants,41.075042,-79.583362,16248.0
+fraud_Terry-Huel,shopping_net,Clothing,33.39809,-118.005969,UNKNOWN
+fraud_Torphy-Kertzmann,health_fitness,Restaurants,30.526653000000003,-87.709632,36567.0
+"fraud_Konopelski, Schneider and Hartmann",food_dining,Electronics,36.752396000000005,-83.939791,40921.0
+"fraud_Hauck, Dietrich and Funk",kids_pets,Groceries,40.93427,-74.930586,7838.0
+fraud_Keeling-Crist,misc_pos,Restaurants,41.452905,-86.853822,46390.0
+fraud_Kassulke PLC,shopping_net,Electronics,40.781067,-86.321539,46947.0
+fraud_Lynch-Mohr,travel,Groceries,41.602424,-71.94481400000001,6351.0
+"fraud_Adams, Kovacek and Kuhlman",grocery_net,Entertainment,45.64378,-86.647227,49835.0
+"fraud_Greenholt, O'Hara and Balistreri",shopping_net,Groceries,33.687506,-91.356155,71654.0
+"fraud_Moore, Williamson and Emmerich",home,Entertainment,42.84369,-74.247354,12016.0
+fraud_Gulgowski LLC,home,Clothing,31.782266,-100.138193,76865.0
+"fraud_Reichert, Huels and Hoppe",shopping_net,Electronics,42.306628,-77.204814,14879.0
+fraud_Kessler Inc,travel,Restaurants,36.576812,-119.656393,93625.0
+fraud_Miller-Harris,misc_net,Entertainment,32.342991999999995,-87.282748,36767.0
+fraud_Goyette-Herzog,travel,Groceries,40.287841,-77.523391,17006.0
+fraud_Flatley-Durgan,misc_net,Entertainment,40.692559,-73.83131800000001,11419.0
+fraud_Schoen-Quigley,kids_pets,Groceries,39.459346,-96.43663,66549.0
+fraud_Howe PLC,entertainment,Clothing,45.278147,-88.792971,54465.0
+fraud_Simonis-Prohaska,misc_pos,Restaurants,41.926824,-84.227323,49253.0
+"fraud_Koss, McLaughlin and Mayer",food_dining,Clothing,40.07829,-120.633686,95983.0
+fraud_Kilback Group,food_dining,Groceries,35.843554,-119.592444,UNKNOWN
+fraud_Jaskolski-Dibbert,grocery_net,Groceries,44.438846000000005,-74.101025,12913.0
+"fraud_Wintheiser, Dietrich and Schimmel",misc_pos,Clothing,29.349764,-99.68691,78870.0
+fraud_Kulas Group,health_fitness,Groceries,34.106198,-117.628879,91786.0
+fraud_Schimmel-Olson,kids_pets,Clothing,40.352984,-74.46733499999999,8831.0
+fraud_Shields-Wunsch,health_fitness,Clothing,41.144662,-124.598766,UNKNOWN
+fraud_Abshire PLC,entertainment,Electronics,38.607294,-100.042603,67515.0
+fraud_Jacobi Inc,health_fitness,Groceries,38.432122,-75.452313,21850.0
+fraud_Adams-Barrows,health_fitness,Electronics,40.903682,-80.755584,44490.0
+"fraud_Okuneva, Schneider and Rau",shopping_pos,Groceries,41.239485,-73.69411600000001,10507.0
+fraud_Kris-Kertzmann,travel,Restaurants,39.034709,-79.374098,26289.0
+"fraud_Schumm, McLaughlin and Carter",food_dining,Entertainment,44.873943,-70.30747,4966.0
+"fraud_Streich, Rolfson and Wilderman",kids_pets,Electronics,38.423985,-93.690921,65323.0
+fraud_Stark-Batz,entertainment,Clothing,42.135121000000005,-78.320266,14743.0
+fraud_Bednar Group,misc_net,Groceries,30.209473,-95.468009,77384.0
+fraud_Will Ltd,food_dining,Clothing,42.246028,-74.913702,13753.0
+"fraud_Swaniawski, Nitzsche and Welch",health_fitness,Groceries,48.744936,-93.009481,UNKNOWN
+"fraud_Lakin, Ferry and Beatty",food_dining,Restaurants,39.930472,-77.65045500000001,17201.0
+fraud_Kautzer and Sons,personal_care,Entertainment,32.936035,-90.56739,39097.0
+fraud_Mante Group,misc_net,Entertainment,36.758371,-83.555103,40856.0
+"fraud_Lehner, Mosciski and King",misc_net,Restaurants,38.544025,-81.200323,25164.0
+fraud_Zboncak LLC,food_dining,Clothing,44.039318,-88.631253,54904.0
+fraud_Mohr-Bayer,shopping_net,Electronics,39.317440000000005,-76.259367,21010.0
+fraud_Hamill-D'Amore,health_fitness,Restaurants,44.815854,-104.501059,82711.0
+fraud_Eichmann-Russel,misc_pos,Entertainment,42.598393,-83.078363,48314.0
+fraud_Hackett Group,travel,Entertainment,45.724015,-91.907279,54871.0
+fraud_Kling-Ernser,entertainment,Restaurants,48.203019,-101.470529,58722.0
+"fraud_Schneider, Hayes and Nikolaus",food_dining,Entertainment,32.415827,-89.98921899999999,39047.0
+"fraud_Schoen, Nienow and Bauch",personal_care,Electronics,41.380883,-88.67211400000001,61341.0
+"fraud_Hintz, Bauch and Smith",health_fitness,Entertainment,36.872045,-112.19686000000002,UNKNOWN
+fraud_Pacocha-O'Reilly,grocery_pos,Clothing,31.716759000000003,-100.030812,76821.0
+fraud_Torp-Labadie,gas_transport,Entertainment,46.610503,-87.109239,UNKNOWN
+fraud_McCullough Group,grocery_net,Entertainment,41.122063,-83.187887,44883.0
+fraud_Welch Inc,misc_net,Groceries,30.883337,-87.78404,36507.0
+"fraud_Hoppe, Harris and Bednar",entertainment,Electronics,38.792368,-89.5306,62275.0
+fraud_Stamm-Rodriguez,misc_pos,Electronics,38.559753,-77.886618,22714.0
+fraud_Kovacek Ltd,travel,Electronics,31.076005,-95.303353,75856.0
+"fraud_Cormier, Stracke and Thiel",entertainment,Entertainment,48.156107,-100.399164,UNKNOWN
+fraud_Veum-Koelpin,travel,Clothing,40.818982,-85.28988199999999,46770.0
+fraud_Bailey-Morar,grocery_pos,Electronics,40.170938,-77.432346,17241.0
+fraud_Daugherty-Thompson,food_dining,Electronics,38.967523,-105.25197,80816.0
+fraud_Heaney-Marquardt,entertainment,Entertainment,42.507369,-83.794467,48116.0
+fraud_Dickinson-Rempel,misc_pos,Clothing,40.034532,-73.629908,UNKNOWN
+fraud_Dicki Ltd,grocery_net,Entertainment,42.224828,-104.010406,UNKNOWN
+"fraud_Hayes, Marquardt and Dibbert",misc_net,Electronics,41.593141,-99.075638,68837.0
+fraud_Connelly PLC,food_dining,Entertainment,36.644187,-78.82952399999999,24598.0
+fraud_Beier-Hyatt,shopping_pos,Entertainment,39.49303,-80.421083,26582.0
+fraud_Mayert Group,shopping_pos,Groceries,36.027313,-96.885692,74062.0
+"fraud_Osinski, Ledner and Leuschke",grocery_pos,Clothing,31.758153000000004,-80.976849,UNKNOWN
+fraud_Dibbert and Sons,entertainment,Electronics,41.61036,-86.89954399999999,46391.0
+fraud_Leannon-Nikolaus,travel,Clothing,42.64665,-77.375716,14512.0
+fraud_McDermott-Weimann,grocery_pos,Electronics,39.075368,-82.591267,45640.0
+fraud_Gottlieb-Hansen,personal_care,Restaurants,38.898354,-75.214111,19960.0
+fraud_Breitenberg-Hermiston,kids_pets,Entertainment,37.748145,-77.374374,23069.0
+fraud_Bernhard-Lesch,food_dining,Groceries,36.45698,-82.599767,37656.0
+"fraud_Nienow, Barrows and Romaguera",personal_care,Electronics,45.337537,-93.49925,55330.0
+fraud_Thiel-Thiel,entertainment,Entertainment,33.433655,-81.198266,29113.0
+fraud_Graham and Sons,health_fitness,Clothing,40.090994,-114.825945,UNKNOWN
+fraud_Abbott-Steuber,personal_care,Entertainment,40.917159000000005,-93.688529,50264.0
+"fraud_Kohler, Lindgren and Koelpin",grocery_net,Groceries,30.180264,-95.92002,77484.0
+fraud_Cartwright-Harris,grocery_pos,Entertainment,30.221743,-96.732435,78946.0
+fraud_Carroll PLC,health_fitness,Groceries,33.769826,-81.52685600000001,29105.0
+fraud_Paucek-Wiza,grocery_net,Entertainment,33.047449,-79.923067,29445.0
+fraud_Nader-Heller,misc_net,Entertainment,35.082412,-105.179047,87724.0
+fraud_Cummerata-Hilpert,entertainment,Groceries,31.80442,-103.153323,79745.0
+fraud_Lesch Ltd,shopping_pos,Clothing,34.868538,-80.401536,29728.0
+fraud_Waelchi Inc,kids_pets,Groceries,41.135808,-73.99956,10956.0
+fraud_Jerde-Hermann,travel,Entertainment,46.290994,-83.494364,UNKNOWN
+"fraud_Wiza, Schaden and Stark",misc_pos,Entertainment,34.921878,-97.081057,74878.0
+fraud_Halvorson Group,misc_pos,Restaurants,42.708651,-74.56720899999999,12043.0
+"fraud_Pouros, Walker and Spencer",kids_pets,Clothing,40.351286,-79.512849,15601.0
+fraud_Hudson-Grady,shopping_pos,Groceries,39.1623,-74.393354,UNKNOWN
+fraud_Altenwerth-Kilback,home,Restaurants,42.240422,-111.610866,83263.0
+fraud_Hermann and Sons,shopping_pos,Electronics,31.556844,-91.714115,71343.0
+fraud_Collier LLC,home,Entertainment,39.610796,-75.757164,19702.0
+fraud_Kuhic LLC,shopping_net,Electronics,32.437847999999995,-83.08690899999999,31019.0
+fraud_Ernser-Lynch,food_dining,Groceries,40.564486,-79.784228,15144.0
+"fraud_Langosh, Wintheiser and Hyatt",food_dining,Electronics,33.633521,-91.84427,71655.0
+"fraud_Torp, Muller and Borer",health_fitness,Electronics,38.956255,-81.595392,25275.0
+fraud_Pacocha-Bauch,shopping_pos,Groceries,35.535155,-106.123232,87507.0
+fraud_Champlin-Casper,home,Restaurants,32.276578,-98.418657,76445.0
+fraud_O'Connell-Ullrich,home,Groceries,35.285034,-107.35831,UNKNOWN
+fraud_Fisher Inc,shopping_net,Restaurants,41.228432,-74.07604,10970.0
+fraud_Torphy-Goyette,shopping_pos,Clothing,23.941375,-82.055536,UNKNOWN
+fraud_Morissette-Schaefer,personal_care,Restaurants,37.864927,-85.21131899999999,40012.0
+fraud_Kertzmann LLC,health_fitness,Groceries,38.905292,-104.783924,80918.0
+fraud_Johns-Hoeger,entertainment,Restaurants,44.791138,-87.58380799999999,54204.0
+"fraud_Haley, Batz and Auer",health_fitness,Entertainment,39.209881,-85.06371999999999,47041.0
+fraud_Maggio-Fahey,misc_pos,Groceries,33.287146,-111.858331,85224.0
+fraud_Huels-Nolan,gas_transport,Clothing,30.021461,-98.627806,78027.0
+fraud_Swift PLC,kids_pets,Electronics,42.373274,-85.698982,49009.0
+fraud_Jakubowski Group,food_dining,Entertainment,40.171087,-106.36548799999998,80459.0
+fraud_Hermann-Gaylord,misc_pos,Clothing,32.796046000000004,-98.971561,76424.0
+fraud_Heller PLC,health_fitness,Groceries,37.882729,-98.172021,67514.0
+fraud_Balistreri-Nader,misc_pos,Restaurants,42.396745,-96.131126,51007.0
+"fraud_Jones, Sawayn and Romaguera",misc_net,Restaurants,39.015441,-95.014682,66052.0
+fraud_Hamill-Daugherty,misc_net,Entertainment,33.137117,-90.18626,39169.0
+"fraud_Huel, Hammes and Witting",grocery_pos,Entertainment,42.177222,-71.17219,2062.0
+fraud_Deckow-O'Conner,grocery_pos,Electronics,34.859672,-86.598326,35759.0
+fraud_Mosciski Group,travel,Electronics,40.918332,-77.798405,16823.0
+fraud_Beer-Jast,kids_pets,Entertainment,28.971948,-98.657201,78065.0
+"fraud_Hahn, Douglas and Schowalter",travel,Entertainment,41.990423,-79.691367,14724.0
+"fraud_Hagenes, Kohler and Hoppe",food_dining,Entertainment,39.863676,-84.093113,45424.0
+"fraud_Medhurst, Labadie and Gottlieb",travel,Electronics,35.819009,-97.551791,73025.0
+"fraud_Hyatt, Russel and Gleichner",health_fitness,Entertainment,33.994645,-78.305738,28462.0
+fraud_Lebsack and Sons,misc_net,Groceries,41.720627,-74.270104,12446.0
+"fraud_Yost, Block and Koepp",misc_pos,Entertainment,37.686564,-89.577708,63732.0
+fraud_Funk Group,grocery_net,Entertainment,45.870969,-112.577797,59750.0
+"fraud_Lang, Towne and Schuppe",kids_pets,Groceries,35.583733,-77.13509,27837.0
+"fraud_Schultz, Simonis and Little",grocery_pos,Electronics,40.770185,-78.22120699999999,16686.0
+fraud_Auer-West,shopping_net,Groceries,26.015256,-99.23367,UNKNOWN
+fraud_Botsford and Sons,home,Clothing,40.798859,-91.857576,52651.0
+fraud_Shanahan-Lehner,personal_care,Electronics,28.201771,-81.833386,33868.0
+"fraud_Johnston, Nikolaus and Maggio",grocery_net,Electronics,40.610572,-74.196104,10311.0
+"fraud_Herman, Treutel and Dickens",misc_net,Restaurants,37.793327000000005,-75.334448,UNKNOWN
+"fraud_Armstrong, Walter and Gottlieb",food_dining,Groceries,38.747954,-108.958761,81522.0
+fraud_Huel Ltd,misc_net,Groceries,41.118309,-81.22376,44266.0
+fraud_Harber Inc,gas_transport,Groceries,39.779337,-88.212659,61919.0
+fraud_Beier LLC,entertainment,Groceries,43.785456,-77.55889499999999,UNKNOWN
+"fraud_Eichmann, Hayes and Treutel",travel,Entertainment,34.083108,-87.046524,35053.0
+fraud_Schamberger-O'Keefe,grocery_pos,Entertainment,40.222411,-74.03343199999999,7712.0
+"fraud_Larson, Quitzon and Spencer",travel,Entertainment,33.574022,-88.213746,39766.0
+fraud_Kling-Grant,grocery_net,Entertainment,31.523498,-87.312205,36460.0
+fraud_Zemlak Group,misc_net,Restaurants,33.866576,-116.001375,UNKNOWN
+"fraud_Swaniawski, Lowe and Robel",shopping_pos,Restaurants,45.749765,-85.982473,UNKNOWN
+"fraud_Rowe, Batz and Goodwin",grocery_pos,Groceries,31.600212,-104.114443,UNKNOWN
+fraud_Langworth LLC,personal_care,Groceries,38.488193,-74.873144,19944.0
+fraud_Bahringer Group,health_fitness,Restaurants,40.937424,-83.388401,43316.0
+fraud_Stark-Koss,home,Entertainment,27.399168,-82.200088,34251.0
+fraud_Treutel-King,travel,Electronics,39.774631,-91.751407,63463.0
+fraud_Doyle Ltd,grocery_pos,Clothing,44.42172,-76.724688,UNKNOWN
+fraud_Bednar Inc,travel,Clothing,32.555171,-99.782034,79525.0
+fraud_Bogisich Inc,grocery_pos,Clothing,34.768992,-88.100797,38852.0
+fraud_Spinka Inc,grocery_net,Restaurants,41.026853,-82.0967,44235.0
+"fraud_Rutherford, Homenick and Bergstrom",grocery_net,Groceries,35.052783000000005,-98.892918,73041.0
+"fraud_Lubowitz, Terry and Stracke",personal_care,Electronics,43.16292,-86.227423,49444.0
+fraud_Haley Group,misc_pos,Electronics,43.246239,-73.181289,5776.0
+fraud_Cassin-Harvey,grocery_net,Entertainment,32.139794,-86.47194,36047.0
+fraud_VonRueden Group,grocery_net,Restaurants,33.399116,-118.204726,UNKNOWN
+fraud_Thiel Ltd,travel,Groceries,42.919037,-72.322885,3431.0
+fraud_Ullrich Ltd,kids_pets,Entertainment,39.510928,-76.904562,21048.0
+fraud_Kub-Heaney,health_fitness,Clothing,37.984204,-92.244159,65452.0
+fraud_Dach-Nader,misc_net,Entertainment,29.844416,-90.61618,70030.0
+fraud_Dibbert-Green,entertainment,Restaurants,46.17968,-90.538765,54527.0
+"fraud_Rodriguez, Yost and Jenkins",misc_net,Groceries,42.316452000000005,-79.842005,16428.0
+fraud_Bauch-Blanda,entertainment,Clothing,32.7964,-89.369729,UNKNOWN
+fraud_Heller-Abshire,grocery_net,Clothing,40.024856,-73.48312800000001,UNKNOWN
+fraud_Gutmann-Upton,misc_pos,Groceries,31.378167,-86.818246,36401.0
+"fraud_Morissette, Weber and Wiegand",grocery_net,Groceries,39.029092,-86.437898,47436.0
+"fraud_Reichel, Bradtke and Blanda",travel,Clothing,39.760105,-78.213713,17267.0
+fraud_Price Inc,shopping_net,Groceries,33.889852000000005,-118.94688700000002,UNKNOWN
+fraud_Wuckert-Walter,grocery_net,Groceries,48.328939,-112.147572,59486.0
+fraud_Turner LLC,travel,Clothing,37.887699,-94.490614,64778.0
+"fraud_Bernier, Volkman and Hoeger",misc_net,Restaurants,44.729629,-123.202558,97351.0
+fraud_Schmeler-Howe,personal_care,Restaurants,34.653079,-79.600234,29570.0
+fraud_Wiegand-Lowe,grocery_net,Groceries,40.89688,-73.189103,11754.0
+fraud_Smitham-Schiller,grocery_net,Groceries,39.933944,-78.593069,15550.0
+fraud_Jaskolski-Vandervort,misc_net,Electronics,33.011715,-86.24676099999999,35183.0
+fraud_Shields Inc,grocery_net,Groceries,41.397054,-72.556694,6419.0
+"fraud_Stehr, Jewess and Schimmel",misc_net,Clothing,34.422191,-86.007897,35975.0
+fraud_Rempel PLC,grocery_net,Clothing,33.143014,-85.613001,36276.0
+fraud_Ratke and Sons,health_fitness,Restaurants,40.50431,-94.959136,64431.0
+fraud_Romaguera and Sons,travel,Clothing,36.516159,-80.39759000000001,27053.0
+fraud_Gerhold LLC,home,Entertainment,42.166012,-89.36993299999999,61047.0
+fraud_Spinka-Welch,grocery_net,Groceries,48.454066,-122.450934,98273.0
+fraud_Larson-Moen,entertainment,Electronics,30.758558,-95.5416,77320.0
+fraud_Rowe-Vandervort,grocery_net,Clothing,33.966275,-118.56150900000002,90401.0
+"fraud_Douglas, DuBuque and McKenzie",travel,Entertainment,28.643807,-97.434101,77963.0
+fraud_Block-Hauck,travel,Restaurants,33.634707,-116.889188,92544.0
+"fraud_Ritchie, Oberbrunner and Cremin",travel,Electronics,43.572211,-77.011431,UNKNOWN
+fraud_Reichert-Weissnat,travel,Electronics,41.768795,-80.631598,44082.0
+"fraud_Hagenes, Hermann and Stroman",travel,Groceries,40.64122,-94.54337,50836.0
+fraud_Morar Inc,grocery_net,Electronics,34.560626,-103.010776,79009.0
+"fraud_Kilback, Nitzsche and Leffler",travel,Restaurants,33.787584,-82.108486,29838.0
