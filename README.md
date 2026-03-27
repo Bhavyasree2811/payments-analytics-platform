@@ -4,7 +4,7 @@
 
 This project implements an end-to-end **Data Engineering Pipeline** using a **Medallion Architecture (Bronze → Silver → Gold)** to process and analyze credit card transaction data.
 
-The pipeline is fully automated using **Apache Airflow**, with built-in **data quality checks and logging** for reliable analytics.
+The pipeline is fully automated using **Apache Airflow**, with built-in **data quality checks, logging, and orchestration** to ensure reliable and production-ready analytics.
 
 ---
 
@@ -16,13 +16,13 @@ Raw Data → Bronze → Silver → Gold → Analytics
 
 ### 🥉 Bronze Layer
 
-* Raw data ingestion
-* Initial cleaning
-* Dataset shape: ~100,000 records
+* Raw data ingestion from source dataset
+* Initial cleaning and preprocessing
+* Dataset size: ~100,000 records
 
 ### 🥈 Silver Layer
 
-* Structured analytical tables
+* Structured and cleaned analytical tables
 * Created datasets:
 
   * customers_table
@@ -41,6 +41,19 @@ Raw Data → Bronze → Silver → Gold → Analytics
 
 ---
 
+## 📈 Business Impact
+
+This pipeline enables:
+
+* Customer behavior analysis (spending patterns and segmentation)
+* Fraud detection insights using transaction-level signals
+* Merchant performance tracking for revenue optimization
+* Transaction trend analysis over time
+
+This project simulates real-world fintech analytics use cases similar to platforms used in companies like Stripe, PayPal, and banking systems.
+
+---
+
 ## ⚙️ Pipeline Orchestration (Airflow)
 
 * DAG: `payments_pipeline`
@@ -48,11 +61,13 @@ Raw Data → Bronze → Silver → Gold → Analytics
 
   * run_pipeline
   * run_data_quality_checks
-* Features:
 
-  * Task dependencies
-  * Retry logic
-  * Logging with timestamps
+### Features:
+
+* Task dependencies
+* Retry logic for failure handling
+* Logging with timestamps
+* Automated scheduling using Airflow
 
 ---
 
@@ -60,7 +75,7 @@ Raw Data → Bronze → Silver → Gold → Analytics
 
 Implemented validations:
 
-* Required columns check
+* Required columns validation
 * Null value detection
 * Duplicate transaction ID detection
 * Negative transaction amount detection
@@ -76,6 +91,30 @@ Implemented validations:
 
 ---
 
+## 📁 Project Structure
+
+```
+payments-analytics-platform/
+│
+├── data/
+├── pipelines/
+│   ├── bronze_pipeline.py
+│   ├── silver_pipeline.py
+│   ├── gold_pipeline.py
+│   ├── data_quality_checks.py
+│   └── run_pipeline.py
+│
+├── airflow/
+│   └── dags/
+│       └── payments_pipeline_dag.py
+│
+├── notebooks/
+├── requirements.txt
+└── README.md
+```
+
+---
+
 ## 🧰 Tech Stack
 
 * Python
@@ -88,7 +127,7 @@ Implemented validations:
 ## 🚀 How to Run
 
 ```bash
-# Run pipeline
+# Run pipeline locally
 python pipelines/run_pipeline.py
 
 # Start Airflow
@@ -99,22 +138,25 @@ airflow standalone
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+(Add screenshots inside an `images/` folder)
 
-* Pipeline execution logs
-* Airflow DAG graph
-* Successful DAG run
-* Output datasets
+### Airflow DAG
+
+![Pipeline DAG](images/dag.png)
+
+### Pipeline Logs
+
+![Logs](images/logs.png)
 
 ---
 
 ## 💡 Key Highlights
 
-* End-to-end ETL pipeline
-* Automated orchestration using Airflow
-* Production-style logging
-* Data validation layer
-* Modular pipeline design
+* End-to-end ETL pipeline (Bronze → Silver → Gold)
+* Automated orchestration using Apache Airflow
+* Production-style logging and monitoring
+* Data validation layer for reliability
+* Modular and scalable pipeline design
 
 ---
 
