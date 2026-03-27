@@ -1,0 +1,14 @@
+paths:
+  raw_input: data/fraud_detection_credit_card_small.csv
+  bronze_output: data/bronze_transactions.csv
+  customers_output: data/customers_table.csv
+  merchants_output: data/merchants_table.csv
+  transactions_output: data/transactions_table.csv
+  fraud_signals_output: data/fraud_signals_table.csv
+  customer_spending_output: data/customer_spending_summary.csv
+  merchant_performance_output: data/merchant_performance_summary.csv
+  fraud_analysis_output: data/fraud_analysis_summary.csv
+  transaction_trend_output: data/transaction_trend_summary.csv
+
+pipeline:
+  name: Payments Analytics Pipeline

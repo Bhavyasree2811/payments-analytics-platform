@@ -2,6 +2,7 @@ from bronze_pipeline import run_bronze_pipeline
 from silver_pipeline import run_silver_pipeline
 from gold_pipeline import run_gold_pipeline
 from data_quality_checks import run_data_quality_checks
+from config_loader import load_config
 from datetime import datetime
 
 
@@ -10,7 +11,10 @@ def log_step(message):
 
 
 def run_pipeline():
-    log_step("Starting Payments Analytics Pipeline")
+    config = load_config()
+    pipeline_name = config["pipeline"]["name"]
+
+    log_step(f"Starting {pipeline_name}")
 
     log_step("Running Bronze Layer")
     run_bronze_pipeline()

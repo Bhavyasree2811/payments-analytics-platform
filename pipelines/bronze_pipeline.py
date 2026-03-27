@@ -1,18 +1,23 @@
 import pandas as pd
+from config_loader import load_config, get_full_path
+
 
 def run_bronze_pipeline():
-
     print("Starting Bronze Pipeline...")
 
-    df = pd.read_csv("../data/fraud_detection_credit_card_small.csv")
+    config = load_config()
 
-    df = df.drop(columns=["Unnamed: 0"])
-    df["merch_zipcode"] = df["merch_zipcode"].fillna("UNKNOWN")
-    df["trans_date_trans_time"] = pd.to_datetime(df["trans_date_trans_time"])
+    input_file = get_full_path(config["paths"]["raw_input"])
+    bronze_output = get_full_path(config["paths"]["bronze_output"])
 
-    df.to_csv("../data/bronze_transactions.csv", index=False)
+    df = pd.read_csv(input_file)
 
-    print("Bronze layer created:", df.shape)
+    df.columns = df.columns.str.strip()
+    df = df.drop_duplicates()
+
+    df.to_csv(bronze_output, index=False)
+
+    print(f"Bronze layer created: {df.shape}")
 
 
 if __name__ == "__main__":
