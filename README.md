@@ -159,6 +159,24 @@ airflow standalone
 * Modular and scalable pipeline design
 
 ---
+## 🎯 Project Outcomes
+
+This project demonstrates:
+
+- End-to-end ETL pipeline development using Python
+- Bronze, Silver, and Gold data modeling approach
+- Workflow orchestration with Apache Airflow
+- Data quality validation and monitoring
+- Retry handling and simulated failure alerts
+- Config-driven pipeline design using YAML
+
+## 📌 What I Learned
+
+- How to design modular ETL pipelines
+- How to orchestrate workflows with Airflow DAGs
+- How to implement production-style retry and alert logic
+- How to improve maintainability using configuration files
+- How to structure analytics-ready datasets from raw transaction data
 
 ## 👩‍💻 Author
 
